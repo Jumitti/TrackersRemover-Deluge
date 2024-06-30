@@ -28,7 +28,7 @@ To install TrackersRemover, follow these steps:
    - Enable "TrackersRemover" from the list of available plugins.
    - Restart Deluge to apply the changes.
 
-# TrackersRemover Plugin Compatibility
+#### TrackersRemover Plugin Compatibility
 
 | Plugin File                                                                                         | Deluge Version | Python Version | Compatible Platforms |
 |-----------------------------------------------------------------------------------------------------|----------------|----------------|----------------------|
