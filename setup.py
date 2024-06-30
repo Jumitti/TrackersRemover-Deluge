@@ -9,11 +9,9 @@
 from setuptools import find_packages, setup
 
 __plugin_name__ = 'TrackersRemover'
-__author__ = 'besuper'
-__author_email__ = '16976439+besuper@users.noreply.github.com'
+__author__ = 'Jumitti'
 __version__ = '0.1_allremove'
-__url__ = 'https://github.com/besuper/TrackersRemover'
-__license__ = 'GPLv3'
+__url__ = 'https://github.com/Jumitti/TrackersRemover'
 __description__ = 'Automatically remove trackers from torrents'
 __long_description__ = """Automatically remove trackers from torrents when download starts"""
 __pkg_data__ = {'deluge_'+__plugin_name__.lower(): ['data/*']}
@@ -23,9 +21,7 @@ setup(
     version=__version__,
     description=__description__,
     author=__author__,
-    author_email=__author_email__,
     url=__url__,
-    license=__license__,
     long_description=__long_description__,
 
     packages=find_packages(),
