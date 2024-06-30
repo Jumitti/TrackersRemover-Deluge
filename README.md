@@ -29,14 +29,13 @@ To install TrackersRemover, follow these steps:
    - Restart Deluge to apply the changes.
 
 # TrackersRemover Plugin Compatibility
-[Releases](https://github.com/Jumitti/TrackersRemover/releases)
 
-| Plugin File                                  | Deluge Version | Python Version | Compatible Platforms |
-|----------------------------------------------|----------------|----------------|----------------------|
-| ```trackersremove-0.1_allremove-py2.7.egg``` | 1.3.15         | 2.7            | macOS                |
-| ```trackersremove-0.1_py3.7.egg```           | 1.3.15         | 3.7            | macOS                |
-| ```trackersremove-0.1_allremove-py3.7.egg``` | 2.1.1          | 3.7            | macOS, Windows       |
-| ```trackersremove-0.1_py3.7.egg```           | 2.1.1          | 3.7            | macOS, Windows       |
+| Plugin File                                                                                         | Deluge Version | Python Version | Compatible Platforms |
+|-----------------------------------------------------------------------------------------------------|----------------|----------------|----------------------|
+| [```trackersremove-0.1_allremove-py2.7.egg```](https://github.com/Jumitti/TrackersRemover/releases) | 1.3.15         | 2.7            | macOS                |
+| [```trackersremove-0.1_py3.7.egg```](https://github.com/besuper/TrackersRemover/releases)           | 1.3.15         | 3.7            | macOS                |
+| [```trackersremove-0.1_allremove-py3.7.egg```](https://github.com/Jumitti/TrackersRemover/releases) | 2.1.1          | 3.7            | macOS, Windows       |
+| [```trackersremove-0.1_py3.7.egg```](https://github.com/besuper/TrackersRemover/releases)           | 2.1.1          | 3.7            | macOS, Windows       |
 
 
 ### Usage
