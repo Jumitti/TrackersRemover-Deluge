@@ -11,7 +11,7 @@ from setuptools import find_packages, setup
 __plugin_name__ = 'TrackersRemover'
 __author__ = 'besuper'
 __author_email__ = '16976439+besuper@users.noreply.github.com'
-__version__ = '0.1'
+__version__ = '0.1_allremove'
 __url__ = 'https://github.com/besuper/TrackersRemover'
 __license__ = 'GPLv3'
 __description__ = 'Automatically remove trackers from torrents'

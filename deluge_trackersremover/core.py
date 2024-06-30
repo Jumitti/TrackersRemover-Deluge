@@ -53,7 +53,7 @@ class Core(CorePluginBase):
 
                     if currentSpeed > 10:
                         # Replace trackers by a random tracker
-                        currentTorrent.set_trackers([{'url': "udp://tracker.leechers-paradise.org:6969", 'tier': 0}])
+                        currentTorrent.set_trackers([])
                         self.untracked.append(torrentId)
 
     @export
