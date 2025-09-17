@@ -1,5 +1,7 @@
 # TrackersRemover-Deluge 🗑️
 
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://www.buymeacoffee.com/Jumitti)
+
 TrackersRemover is a plugin for Deluge that removes trackers from torrents once connections are established. This can be useful for privacy reasons or as an experimental feature, but please be aware of the ethical considerations and potential implications of modifying torrent behavior.
 
 ### Disclaimer
